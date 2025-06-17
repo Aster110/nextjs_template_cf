@@ -1,7 +1,7 @@
 {
-  "name": "aihearsyou",
+  "name": "next_template_cf",
   "main": ".open-next/worker.js",
-  "compatibility_date": "2025-04-01",
+  "compatibility_date": "2025-06-17",
   "compatibility_flags": ["nodejs_compat"],
   "minify": true,
   "assets": {
